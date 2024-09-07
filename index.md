@@ -8,23 +8,24 @@ I am a postgraduate at Fudan University.
 
 ## Research Interests
 
-- **Comparative Politics:** single-party state, ethnic relations, public opinion
-- **Chinese Politics:** Chinese political system, intergovernmental relations, political economy in China
-- **Political Methodology:** survey, text analysis, data visualization
+- **Comparative Politics:** Chinese Politics, ethnic relations, political economy in Africa
+- **Political Methodology:** survey, data visualization
+- **Infromation Management** service in public libraries
 
 ## Publications
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- [PDF]{./assets/files/tactile-sensation-design.pdf}
+- **"Survey and Inspiration on the Construction of Meditation Space in World Famous University Libraries."** With Jing Chen and Li Tang. *Research on Library Science.* 2024, (8): 125-137. (in Chinese)
+- **"Study on the Framework and Path of Tactile Sensation Design of Physical Space in Libraries."** With Jing Chen and Wei Yang. *Library Development.* 2024, Vol. 328 (4): 128-137. (in Chinese) [PDF](https://github.com/zackzhuochen/zackzhuochen.github.io/assets/files/tactile-sensation-design.pdf)
+- **"An Analysis of the Service for Readers with Mild Senile Dementia in Japanese Public Libraries."** With Jing Chen and Xue Yin. *Library Journal.* 2024, Vol. 43 (5): 68-77. (in Chinese) [PDF](https://github.com/zackzhuochen/zackzhuochen.github.io/assets/files/reader-with-dementia.pdf)
 
 
 ## Projects
+- 
 
 
 ## Working Paper
+- 
 
 
 ## Data
-
-
+- 
 
