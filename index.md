@@ -4,20 +4,27 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a postgraduate at Fudan University.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Comparative Politics:** single-party state, ethnic relations, public opinion
+- **Chinese Politics:** Chinese political system, intergovernmental relations, political economy in China
+- **Political Methodology:** survey, text analysis, data visualization
 
-## News
+## Publications
 
 - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- [PDF]{%%}
 
-{% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+## Projects
+
+
+## Working Paper
+
+
+## Data
+
+
+
