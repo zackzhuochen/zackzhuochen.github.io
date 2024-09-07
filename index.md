@@ -10,7 +10,7 @@ I am a postgraduate at Fudan University.
 
 - **Comparative Politics:** Chinese Politics, ethnic relations, political economy in Africa
 - **Political Methodology:** survey, data visualization
-- **Infromation Management** service in public libraries
+- **Infromation Management:** service in public libraries
 
 ## Publications
 - **"Survey and Inspiration on the Construction of Meditation Space in World Famous University Libraries."** With Jing Chen and Li Tang. *Research on Library Science.* 2024, (8): 125-137. (in Chinese)
