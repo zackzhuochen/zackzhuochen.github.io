@@ -21,14 +21,23 @@ I am a postgraduate in the department of Political Science at Fudan University i
 - **"An Analysis of the Service for Readers with Mild Senile Dementia in Japanese Public Libraries."** With Jing Chen and Xue Yin. *Library Journal.* 2024, Vol. 43 (5): 68-77. (in Chinese) [[PDF]](https://zackzhuochen.github.io/assets/files/reader-with-dementia.pdf) [[Link]](https://kns.cnki.net/kcms2/article/abstract?v=PAev8JwjQis9BupL5iLTCpWbemyVO4jXf7CjtCWghJa40W1KrG3ixtMDThla0iWUt9K4Sia_Mtz7KNCsve1Qw40np_2os0V34TrplvpyUyfD0TtcbHL-hw1HyeyoVf8nwSzC_U1pMo0Xabyrs2ISz8xee3yARFXHOwC1FLdb1mg=&uniplatform=NZKPT)
 
 
-## Projects
+## Research in Progress
 - 
 
 
-## Working Paper
+## Conferences and Presentations
 - 
 
 
-## Data
+## Research Experience
 - 
+
+
+## Awards and Honors
+- 
+
+
+## Additional Skills
+- **Languages:** Mandarin Chinese (native), English (intermediate)
+- **Computer Skills:** Stata, R, Python, ArcGIS, Microsoft Office
 
