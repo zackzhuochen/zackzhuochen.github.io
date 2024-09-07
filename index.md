@@ -15,7 +15,7 @@ I am a postgraduate at Fudan University.
 ## Publications
 
 - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- [PDF]{%%}
+- [PDF]{./assets/files/tactile-sensation-design.pdf}
 
 
 ## Projects
