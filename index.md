@@ -39,5 +39,5 @@ I am a postgraduate in the department of Political Science at Fudan University i
 
 ## Additional Skills
 - **Languages:** Mandarin Chinese (native), English (intermediate)
-- **Computer Skills:** Stata, R, Python, ArcGIS, Microsoft Office
+- **Computer Skills:** Stata, R, Python, ArcGIS, LaTex, Microsoft Office
 
