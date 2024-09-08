@@ -11,7 +11,7 @@ I am a postgraduate in the department of Political Science at Fudan University i
 
 - **Comparative Politics:** Chinese Politics, ethnic relations, political economy in Africa
 - **Political Methodology:** survey, data visualization
-- **Information Management:** services in public libraries
+- **Information Management:** services for the disadvantaged in public libraries
 
 
 ## Publications
