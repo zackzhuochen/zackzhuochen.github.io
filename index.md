@@ -4,19 +4,17 @@ layout: homepage
 
 ## About Me
 
-Hello, my name is Zhuo Chen (陈卓), and I am currently pursuing my postgraduate studies in the Department of Political Science at Fudan University in China. My research interests are centered on comparative politics, particularly in the areas of intergovernmental relations, China's political economy, and ethnic politics in Africa. 
+Hello, my name is Zhuo Chen (陈卓), and I am currently pursuing my postgraduate studies in the Department of Political Science at Fudan University in China. Recently, my research interests are centered on comparative politics, particularly in the areas of intergovernmental relations, China's political economy, and ethnic politics in Africa. 
 
 
 ## Education
 
 **Fudan University (FDU)**, Shanghai, China
-
 Master’s in Political Science (Major in Comparative Politics), Sept 2023 – June 2026
 - GPA: 3.79/4.00
 - Core Modules: Comparative Politics, Political Methodology, The Chinese Political System, Politics of Africa
 
 **Hunan Normal University (HNNU)**, Changsha, China
-
 LL.B. in Political Science and Public Administration, Sept 2019 – June 2023
 - GPA: 4.65/5.00, Rank: 1/31
 -	Core Modules: Political Theory, Government and Politics of China, Quantitative Analysis of Politics, Government Economics
