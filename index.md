@@ -39,7 +39,7 @@ The Interdisciplinary Program for Outstanding Undergraduates (Shicheng Class), S
 - **"An Introduction to Services for Readers with Mild Senile Dementia in Japanese Public Libraries."** With Jing Chen and Xue Yin. *Library Journal.* 2024, Vol. 43 (5): 68-77. (in Chinese) [[PDF]](https://zackzhuochen.github.io/assets/files/reader-with-dementia.pdf) [[Link]](https://kns.cnki.net/kcms2/article/abstract?v=PAev8JwjQis9BupL5iLTCpWbemyVO4jXf7CjtCWghJa40W1KrG3ixtMDThla0iWUt9K4Sia_Mtz7KNCsve1Qw40np_2os0V34TrplvpyUyfD0TtcbHL-hw1HyeyoVf8nwSzC_U1pMo0Xabyrs2ISz8xee3yARFXHOwC1FLdb1mg=&uniplatform=NZKPT)
 
 *Book Chapters*
-- Zhuo Chen. 2022. “The County-Level Information Assistance: A Case Study on Changsha County”. In *Information Dissemination and Public Support: A County-level Perspective*, edited by Ti Fang and Jing Chen. Intellectual Property Publishing House. (in Chinese)
+- Zhuo Chen. 2022. “The County-Level Information Assistance: A Case Study on Changsha County”. In *Information Dissemination and Public Support: A County-Level Perspective*, edited by Ti Fang and Jing Chen. Intellectual Property Publishing House. (in Chinese)
 - Zhuo Chen. 2022. “An Introduction to China’s Economic Cycles and the ‘New Normal’”. In *An Introduction to Chinese Economics: Theory, Method and Case*, edited by Qin He. Northeastern University Press. (in Chinese)
 
 
