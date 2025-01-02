@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hello, my name is Zhuo Chen ([陈卓](https://github.com/zackzhuochen/zackzhuochen.github.io/blob/main/assets/files/%E9%99%88%E5%8D%93_%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86.pdf)), and I am currently pursuing my postgraduate studies in the Department of Political Science at Fudan University in China. My research interests are centered on comparative politics, particularly in the areas of intergovernmental relations, China's political economy, and ethnic politics in Africa. 
+Hello, my name is Zhuo Chen (陈卓), and I am currently pursuing my postgraduate studies in the Department of Political Science at Fudan University in China. My research interests are centered on comparative politics, particularly in the areas of intergovernmental relations, China's political economy, and ethnic politics in Africa. 
 
 
 ## Education
