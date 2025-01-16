@@ -55,6 +55,6 @@ The Interdisciplinary Program for Outstanding Undergraduates (Shicheng Class), S
 
 
 ## Additional Information
-- **Computer Skills:** R, Stata, Python, ArcGIS, QGIS, LaTex, Microsoft Office
+- **Computer Skills:** R, Stata, Python, ArcGIS, QGIS, LaTeX, Microsoft Office
 - **Language:** Chinese (native), English (fluent), French (beginner)
 
