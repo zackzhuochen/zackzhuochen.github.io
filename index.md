@@ -49,8 +49,8 @@ The Interdisciplinary Program for Outstanding Undergraduates (Shicheng Class), S
 - National Scholarship, 2023
 - Excellent Graduates of Hunan Province, 2023
 - Second Prize of the 2nd Undergraduate Student Symposium on Political Science, 2022
-- First Prize of Zhexun Cusp National Final, 2022
-- Special Prize of Zhexun Cup Central China Regional Competition, 2021
+- First Prize of *Zhexun Cup* National Final, 2022
+- Special Prize of *Zhexun Cup* Central China Regional Competition, 2021
 - First-class Scholarship of Hunan Normal University, 2020-2022
 
 
