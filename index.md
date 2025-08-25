@@ -44,14 +44,13 @@ The Interdisciplinary Program for Outstanding Undergraduates (Shicheng Class), S
 
 
 ## Awards and Honors
+- The Third Prize of the Excellent Paper of the Harare Forum for Africa, 2025
 -	Excellent Students of Fudan University, 2024
-- Graduate Fellowship of Fudan University, 2023
 - National Scholarship, 2023
 - Excellent Graduates of Hunan Province, 2023
-- Second Prize of the 2nd Undergraduate Student Symposium on Political Science, 2022
-- First Prize of *Zhexun Cup* National Final, 2022
-- Special Prize of *Zhexun Cup* Central China Regional Competition, 2021
-- First-class Scholarship of Hunan Normal University, 2020-2022
+- The Second Prize of the 2nd Undergraduate Student Symposium on Political Science, 2022
+- The First Prize of *Zhexun Cup* National Final, 2022
+- The First-class Scholarship of Hunan Normal University, 2020-2022
 
 
 ## Additional Information
