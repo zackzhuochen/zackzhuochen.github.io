@@ -47,6 +47,7 @@ The Interdisciplinary Program for Outstanding Undergraduates (Shicheng Class), S
 ## Awards and Honors
 - National Scholarship in China, 2025, 2023
 - Gu Jing Scholarship, 2025
+- The First Prize of the *Guowu* Forum at Fudan, 2025
 - The Third Prize of the Excellent Paper of the Harare Forum for Africa, 2025
 -	Excellent Students of Fudan University, 2024-2025
 - Excellent Graduates of Hunan Province, 2023
