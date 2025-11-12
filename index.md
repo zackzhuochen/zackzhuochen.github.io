@@ -18,7 +18,7 @@ Master’s in Political Science (Major in Comparative Politics), Sep. 2023 – J
 **Hunan Normal University (HNNU)**, Changsha, China
 
 LL.B. in Political Science and Public Administration, Sep. 2019 – Jun. 2023
-- GPA: 4.65/5.00, Rank: 1/31
+- GPA: 4.58/5.00, Rank: 1/31
 -	Core Modules: Political Theory, Government and Politics of China, Quantitative Analysis of Politics, Government Economics
 
 The Interdisciplinary Program for Outstanding Undergraduates (Shicheng Class), Sep. 2020 – Jun. 2023
@@ -27,6 +27,7 @@ The Interdisciplinary Program for Outstanding Undergraduates (Shicheng Class), S
 ## Research in Progress
 
 - *Tracks of Division: The Impact of Standard Gauge Railways on National Identity and Ethnic Allegiance in Kenya*
+- *From Society to State: The Harambee Movement as African Socialism and State-building during the Cold War*
 - *Democracy or Ethnicity? Federal Demands and Practices of Majimboism in Kenya*
 - *Collective and Township Enterprises: Long-Term Effects of Early Rural Industrial Development in China*
 
@@ -44,9 +45,10 @@ The Interdisciplinary Program for Outstanding Undergraduates (Shicheng Class), S
 
 
 ## Awards and Honors
+- National Scholarship in China, 2025, 2023
+- Gu Jing Scholarship, 2025
 - The Third Prize of the Excellent Paper of the Harare Forum for Africa, 2025
--	Excellent Students of Fudan University, 2024
-- National Scholarship, 2023
+-	Excellent Students of Fudan University, 2024-2025
 - Excellent Graduates of Hunan Province, 2023
 - The Second Prize of the 2nd Undergraduate Student Symposium on Political Science, 2022
 - The First Prize of *Zhexun Cup* National Final, 2022
