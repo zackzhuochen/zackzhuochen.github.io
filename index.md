@@ -17,7 +17,7 @@ Master’s in Political Science (Major in Comparative Politics), Sep. 2023 – J
 
 **Hunan Normal University (HNNU)**, Changsha, China
 
-BA in Political Science and Public Administration, Sep. 2019 – Jun. 2023
+B.A. in Political Science and Public Administration, Sep. 2019 – Jun. 2023
 - GPA: 4.58/5.00, Rank: 1/31
 -	Core Modules: Political Theory, Government and Politics of China, Quantitative Analysis of Politics, Government Economics
 
