@@ -27,9 +27,9 @@ The Interdisciplinary Program for Outstanding Undergraduates (Shicheng Class), S
 ## Research in Progress
 
 - *Tracks of Division: The Impact of Standard Gauge Railways on National Identity and Ethnic Allegiance in Kenya*
-  - Third Prize for Excellent Papers in the *Harare Forum for Africa*, 2025
+  - Third Prize for Excellent Papers in the Harare Forum for Africa, 2025
 - *From Society to State: The Harambee Movement as African Socialism and State-building during the Cold War*
-  - First Prize for Excellent Papers in the *Fudan Guowu Graduate Forum*, 2025
+  - First Prize for Excellent Papers in the Fudan Guowu Graduate Forum, 2025
 - *Democracy or Ethnicity? Federal Demands and Practices of Majimboism in Kenya*
 - *Collective and Township Enterprises: Long-Term Effects of Early Rural Industrial Development in China*
 
