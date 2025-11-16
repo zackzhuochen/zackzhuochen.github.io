@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hello, my name is Zhuo Chen (陈卓), and I am currently pursuing my postgraduate studies in the Department of Political Science at Fudan University in China. My research interests are centered on comparative politics, particularly in the areas of political institutions in Africa, rural development and social mobility. 
+Hello, my name is Zhuo Chen (陈卓), and I am currently pursuing my postgraduate studies in the Department of Political Science at Fudan University in China. My research interests are centered on comparative politics, particularly in the areas of state-society relation, politics of infrastructure and national identity. 
 
 
 ## Education
@@ -17,7 +17,7 @@ Master’s in Political Science (Major in Comparative Politics), Sep. 2023 – J
 
 **Hunan Normal University (HNNU)**, Changsha, China
 
-LL.B. in Political Science and Public Administration, Sep. 2019 – Jun. 2023
+BA in Political Science and Public Administration, Sep. 2019 – Jun. 2023
 - GPA: 4.58/5.00, Rank: 1/31
 -	Core Modules: Political Theory, Government and Politics of China, Quantitative Analysis of Politics, Government Economics
 
@@ -27,7 +27,9 @@ The Interdisciplinary Program for Outstanding Undergraduates (Shicheng Class), S
 ## Research in Progress
 
 - *Tracks of Division: The Impact of Standard Gauge Railways on National Identity and Ethnic Allegiance in Kenya*
+  - The Third Prize of the Excellent Papers of the *Harare Forum for Africa*, 2025
 - *From Society to State: The Harambee Movement as African Socialism and State-building during the Cold War*
+  - The First Prize of the Excellent Papers of the *Fudan Guowu Gradute Forum*, 2025
 - *Democracy or Ethnicity? Federal Demands and Practices of Majimboism in Kenya*
 - *Collective and Township Enterprises: Long-Term Effects of Early Rural Industrial Development in China*
 
@@ -47,16 +49,13 @@ The Interdisciplinary Program for Outstanding Undergraduates (Shicheng Class), S
 ## Awards and Honors
 - National Scholarship in China, 2025, 2023
 - Gu Jing Scholarship, 2025
-- The First Prize of the *Guowu* Forum at Fudan, 2025
-- The Third Prize of the Excellent Paper of the Harare Forum for Africa, 2025
 -	Excellent Students of Fudan University, 2024-2025
 - Excellent Graduates of Hunan Province, 2023
-- The Second Prize of the 2nd Undergraduate Student Symposium on Political Science, 2022
-- The First Prize of *Zhexun Cup* National Final, 2022
 - The First-class Scholarship of Hunan Normal University, 2020-2022
+- The First Prize of *Zhexun Cup* National Final, 2022
 
 
 ## Additional Information
 - **Computer Skills:** R, Stata, Python, ArcGIS, QGIS, LaTeX, Microsoft Office
-- **Language:** Chinese (native), English (fluent), French (beginner)
+- **Language:** Chinese (native), English (fluent)
 
