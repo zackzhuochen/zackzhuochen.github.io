@@ -6,7 +6,7 @@
     {% for link in site.data.fieldwork.main %}
 
     <li>
-      <div class="pub-row row" style="margin-bottom: 40px;">
+      .fieldwork .pub-row {margin-top: 0 !important;}
 
         <!-- 图片列 -->
         <div class="col-sm-3 abbr" style="padding-right: 15px; padding-left: 15px;">
