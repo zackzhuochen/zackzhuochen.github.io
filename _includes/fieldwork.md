@@ -1,20 +1,32 @@
 <h2 id="fieldwork" style="margin: 2px 0px -15px;">Field Research</h2>
 
 <div class="fieldwork">
-<ol class="introduction">
+  <ol class="introduction">
 
-{% for link in site.data.fieldwork.main %}
+    {% for link in site.data.fieldwork.main %}
 
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    {% if link.image %} 
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
-    {% endif %}
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="author">{{ link.note }}</div>     
-  </div>
-  </div>
-</li>
+    <li>
+      <div class="pub-row row" style="margin-bottom: 15px;">
+
+        <!-- 图片列 -->
+        <div class="col-sm-3 abbr" style="padding-right: 15px; padding-left: 15px;">
+          {% if link.image %}
+          <img src="{{ link.image }}" 
+               class="teaser img-fluid z-depth-1" 
+               style="width: 100%; height: auto; border-radius: 6px;">
+          {% endif %}
+        </div>
+
+        <!-- 文字列 -->
+        <div class="col-sm-9" style="padding-left: 20px; padding-right: 15px;">
+          <div class="author">{{ link.note }}</div>
+        </div>
+
+      </div>
+    </li>
+
+    {% endfor %}
+
+  </ol>
+</div>
 
