@@ -1,6 +1,6 @@
 ## Publications and Others
 
-<h4 style="margin:0 10px 0;">Peer-reviewed Articles</h4>
+<h4 style="margin:0 10px 0;">Peer-reviewed Journal Articles</h4>
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://kns.cnki.net/kcms2/article/abstract?v=UsPV4INcYzieNSsaNrEGFIKeoVjyS5xxevzHLzYme_8fiyg82YOAFACK4TMYQNIXDaVEh4l1MVUpy6lRDYJmwcOOr2eLW2eJWA5LVQ9qwIUeF3qZ2BCol76WO3eBnzCYCam7FrbZDUgmmUsExwDlCcZVvkhcJ9a7KmzQLc2hqkCUxvdx6nxAD7UIKj5Wcxyz_sgDI_LPH8FYSU1Gp352yw&uniplatform=NZKPT"><autocolor>“The Method of Designing and Constructing Meditation Spaces in Libraries: A Global Survey on Renowned Academic Libraries.” With Jing Chen and Li Tang. Research on Library Science. 2024, (8): 125-137. (in Chinese) CSSCI, IF=3.322</autocolor></a></li>
