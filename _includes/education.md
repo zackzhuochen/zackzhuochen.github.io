@@ -2,7 +2,7 @@
 
 <h4 style="margin:0 10px 0;">Fudan University (FDU), Shanghai, China</h4>
 
-<ul style="margin:0 0 20px;">
+<ul style="margin:0 0 5px;">
   <li><autocolor>Master’s in Political Science, Sep. 2023 – Jun. 2026</autocolor></li>
 </ul>
 
