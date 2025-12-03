@@ -11,11 +11,8 @@ Hello, my name is Zhuo Chen (陈卓), and I am currently pursuing my postgraduat
 ## Research in Progress
 
 - *Tracks of Division: The Effects of Standard Gauge Railways on National Identity in Kenya*
-  - Third Prize in the Excellent Paper Award of the Harare Forum for Africa
 - *African Socialism and State-building in Kenya: The Origin of Harambee Movement during the Cold War*
-  - First Prize in the Excellent Paper Award of the Fudan University Postgraduate Forum (*Guowu Luntan*)
 - *Democracy or Ethnicity? The Impacts of the Devolution Reform on Public Goods Provision in Kenya*
-  - Awarded Excellent Grade for Term Paper in the “African Politics and Society” Course
 
 
 ## Thesis
