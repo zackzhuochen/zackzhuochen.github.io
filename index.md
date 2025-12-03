@@ -10,18 +10,15 @@ Hello, my name is Zhuo Chen (陈卓), and I am currently pursuing my postgraduat
 ## Education
 
 **Fudan University (FDU)**, Shanghai, China
-
-Master’s in Political Science, Sep. 2023 – Jun. 2026
+*Master’s in Political Science, Sep. 2023 – Jun. 2026*
 - GPA: 3.84/4.00, Rank: 1/12
 - Core Modules: Comparative Politics, Political Methodology, Chinese Politics, African Politics
 
 **Hunan Normal University (HNNU)**, Changsha, China
-
-B.A. in Political Science and Public Administration, Sep. 2019 – Jun. 2023
+*B.A. in Political Science and Public Administration, Sep. 2019 – Jun. 2023*
+*Interdisciplinary Program for Outstanding Undergraduates [(Shicheng Class)](https://scsy.hunnu.edu.cn/sygk/syjj.htm), Sep. 2020 – Jun. 2023*
 - GPA: 4.58/5.00, Rank: 1/31
 -	Core Modules: Political Theory, Chinese Politics, Methodology in Social Science, Political Economy
-
-Interdisciplinary Program for Outstanding Undergraduates [(Shicheng Class)](https://scsy.hunnu.edu.cn/sygk/syjj.htm), Sep. 2020 – Jun. 2023
 
 
 ## Research in Progress
@@ -76,4 +73,3 @@ Interdisciplinary Program for Outstanding Undergraduates [(Shicheng Class)](http
 ## Additional Information
 - **Computer Skills:** R, Stata, Python, ArcGIS, QGIS, fsQCA, Gephi, LaTeX, 
 - **Language:** Chinese (native), English (fluent), Swahili (beginner), Shona(beginner)
-
