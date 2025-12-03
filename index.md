@@ -36,8 +36,9 @@ Interdisciplinary Program for Outstanding Undergraduates [(Shicheng Class)](http
 
 ## Thesis
 
--
--
+- Master's Thesis: ***The Effects of Railway Upgrading on National Identity in Africa: Evidence from Kenya and Nigeria***
+- Undergraduate Thesis: ***Embeddedness and Coaptation: Strategic Development of Supply and Marketing Cooperatives in Rural China***
+  - Awarded Excellent Undergraduate Thesis of Hunan Normal University
 
 
 ## Publications and Others
@@ -55,12 +56,21 @@ Interdisciplinary Program for Outstanding Undergraduates [(Shicheng Class)](http
 ## Selected Fellowships and Awards
 - National Scholarship (Top 1%), 2025, 2023
 - Gu-Jing Scholarship (Top 1%), 2025
+- Yang-Shuda Scholarship (Top 1‰), 2022
 - First-class Scholarship of Fudan University, 2024
 - First-class Scholarship of Hunan Normal University, 2020-2022
-- Yang-Shuda Scholarship (Top 1‰), 2022
 -	Excellent Students of Fudan University, 2024, 2025
 - Excellent Graduates of Hunan Province, 2023
 - First Prize of *Zhexun Cup* National Final, 2022
+
+
+## Extra-curriculum Activities / Volunteer Work
+- Group Leader, China-Africa Shanghai International Network (CASIN), 2025-present
+- Volunteer, SIRPA Research Design Workshop, FDU, 2025-present
+- Secretary, Communist Youth League Branch of SIPAR, FDU, 2025-present
+- Group Leader, Interview Section of the Political Scientists (Zhegzhi Xueren), 2022-2024
+- Deputy Secretary, Communist Youth League Branch in Changsha County, 2022-2023
+- President, Student Union of SOPA, HNNU, 2021-2022
 
 
 ## Additional Information
