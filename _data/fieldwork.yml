@@ -4,7 +4,7 @@ main:
     location: Harare
     image: ./assets/img/harare.jpg
 
-  - note: Field Research for the Fourth China-Africa Economic and Trade Expo in Changsha, 2025.
+  - note: Field Research for the Fourth China-Africa Economic and Trade Expo in Changsha, China, 2025.
     location: Changsha
     image: ./assets/img/changsha.jpg
 
