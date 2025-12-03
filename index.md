@@ -10,6 +10,7 @@ Hello, my name is Zhuo Chen (陈卓), and I am currently pursuing my postgraduat
 ## Education
 
 **Fudan University (FDU)**, Shanghai, China
+
 *Master’s in Political Science, Sep. 2023 – Jun. 2026*
 - GPA: 3.84/4.00, Rank: 1/12
 - Core Modules: Comparative Politics, Political Methodology, Chinese Politics, African Politics
