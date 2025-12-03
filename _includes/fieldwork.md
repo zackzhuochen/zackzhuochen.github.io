@@ -3,7 +3,7 @@
 <div class="fieldwork">
 <ol class="introduction">
 
-{% for link in site.data.publications.main %}
+{% for link in site.data.fieldwork.main %}
 
 <li>
 <div class="pub-row">
