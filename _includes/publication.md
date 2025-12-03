@@ -12,5 +12,5 @@
 
 <ul style="margin:0 0 20px;">
   <li><a href="https://mp.weixin.qq.com/s/lIaKOSWW3atN2n2NkGJnew"><autocolor>Review of Deborah Brautigam, The Dragon’s Gift: The Real Story of China in Africa, XinTianXueShe, 2025.</autocolor></a></li>
-  <li><a href="https://mp.weixin.qq.com/s/FEOqXMkJmWFr8ndaEWZqlw"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
+  <li><a href="https://mp.weixin.qq.com/s/FEOqXMkJmWFr8ndaEWZqlw"><autocolor>Review of Poppy Cullen, Kenya and Britain after Independence: Beyond Neo-Colonialism, 2024.</autocolor></a></li>
 </ul>
