@@ -15,6 +15,7 @@ Hello, my name is Zhuo Chen (陈卓), and I am currently pursuing my postgraduat
 - Core Modules: Comparative Politics, Political Methodology, Chinese Politics, African Politics
 
 **Hunan Normal University (HNNU)**, Changsha, China
+
 *B.A. in Political Science and Public Administration, Sep. 2019 – Jun. 2023*
 
 *Interdisciplinary Program for Outstanding Undergraduates [(Shicheng Class)](https://scsy.hunnu.edu.cn/sygk/syjj.htm), Sep. 2020 – Jun. 2023*
