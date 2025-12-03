@@ -3,3 +3,15 @@ main:
   - note: Field Research in Harare, Zimbabwe, 2025.
     location: Harare
     image: ./assets/img/harare.jpg
+
+  - note: Field Research in Changsha for the Fourth China-Africa Economic and Trade Expo, 2025.
+    location: Changsha
+    image: ./assets/img/changsha.jpg
+
+  - note: Field Research in Shanghai, China, 2024.
+    location: Shanghai
+    image: ./assets/img/shanghai.jpg
+
+  - note: Field Research in Daqing, China, 2024.
+    location: Daqing
+    image: ./assets/img/daqing.jpg
