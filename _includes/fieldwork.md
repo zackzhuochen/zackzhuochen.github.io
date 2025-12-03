@@ -1,7 +1,7 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+<h2 id="fieldwork" style="margin: 2px 0px -15px;">Field Research</h2>
 
-<div class="publications">
-<ol class="bibliography">
+<div class="fieldwork">
+<ol class="introduction">
 
 {% for link in site.data.publications.main %}
 
