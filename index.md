@@ -16,6 +16,7 @@ Hello, my name is Zhuo Chen (陈卓), and I am currently pursuing my postgraduat
 
 **Hunan Normal University (HNNU)**, Changsha, China
 *B.A. in Political Science and Public Administration, Sep. 2019 – Jun. 2023*
+
 *Interdisciplinary Program for Outstanding Undergraduates [(Shicheng Class)](https://scsy.hunnu.edu.cn/sygk/syjj.htm), Sep. 2020 – Jun. 2023*
 - GPA: 4.58/5.00, Rank: 1/31
 -	Core Modules: Political Theory, Chinese Politics, Methodology in Social Science, Political Economy
@@ -65,7 +66,7 @@ Hello, my name is Zhuo Chen (陈卓), and I am currently pursuing my postgraduat
 - Group Leader, China-Africa Shanghai International Network (CASIN), 2025-present
 - Volunteer, SIRPA Research Design Workshop, FDU, 2025-present
 - Secretary, Communist Youth League Branch of SIPAR, FDU, 2025-present
-- Group Leader, Interview Section of the Political Scientists (Zhegzhi Xueren), 2022-2024
+- Group Leader, Interview Section of the Political Scientists (*Zhegzhi Xueren*), 2022-2024
 - Deputy Secretary, Communist Youth League Branch in Changsha County, 2022-2023
 - President, Student Union of SOPA, HNNU, 2021-2022
 
