@@ -11,6 +11,6 @@
 
 <ul style="margin:0 0 20px;">
   <li><autocolor>B.A. in Political Science and Public Administration, Sep. 2019 – Jun. 2023</autocolor></li>
-  <li><autocolor>Interdisciplinary Program for Outstanding Undergraduates (Shicheng Class), Sep. 2020 – Jun. 2023</autocolor></li>
+  <li><a href="https://scsy.hunnu.edu.cn/sygk/syjj.htm"><autocolor>Interdisciplinary Program for Outstanding Undergraduates (Shicheng Class), Sep. 2020 – Jun. 2023</autocolor></a></li>
   
 </ul>
