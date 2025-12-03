@@ -39,7 +39,7 @@ Hello, my name is Zhuo Chen (陈卓), and I am currently pursuing my postgraduat
 - Undergraduate Thesis: ***Embeddedness and Coaptation: Strategic Development of Supply and Marketing Cooperatives in Rural China***
   - Awarded Excellent Undergraduate Thesis of Hunan Normal University
 
-{% include_relative _includes/publications.md %}
+{% include_relative _includes/publication.md %}
 
 ## Publications and Others
 
