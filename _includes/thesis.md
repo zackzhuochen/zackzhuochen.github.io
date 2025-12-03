@@ -1,4 +1,4 @@
-## Thesis
+## Master's and Undergraduate Theses
 
 <h4 style="margin:0 10px 0;">Master's Thesis</h4>
 
