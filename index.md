@@ -18,6 +18,8 @@ Hello, my name is Zhuo Chen (陈卓), and I am currently pursuing my postgraduat
 
 {% include_relative _includes/publication.md %}
 
+{% include_relative _includes/fieldwork.md %}
+
 ## Selected Fellowships and Awards
 - National Scholarship (Top 1%), 2025, 2023
 - Gu-Jing Scholarship (Top 1%), 2025
