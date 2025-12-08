@@ -24,7 +24,7 @@ Hello, my name is Zhuo Chen (陈卓), and I am currently pursuing my postgraduat
 - National Scholarship (Top 1%), 2025, 2023
 - Gu-Jing Scholarship (Top 1%), 2025
 - Yang-Shuda Scholarship (Top 1‰), 2022
-- First-class Scholarship of Fudan University, 2024
+- First-class Scholarship of Fudan University, 2025
 - First-class Scholarship of Hunan Normal University, 2020-2022
 -	Excellent Students of Fudan University, 2024, 2025
 - Excellent Graduates of Hunan Province, 2023
