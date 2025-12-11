@@ -21,7 +21,7 @@ Hello, my name is Zhuo Chen (陈卓), and I am currently pursuing my postgraduat
 {% include_relative _includes/fieldwork.md %}
 
 ## Selected Fellowships and Awards
-- National Scholarship (Top 1%), 2025, 2023
+- National Scholarship (Top 1%), 2025, 2022
 - Gu-Jing Scholarship (Top 1%), 2025
 - Yang-Shuda Scholarship (Top 1‰), 2022
 - First-class Scholarship of Fudan University, 2025
@@ -34,7 +34,7 @@ Hello, my name is Zhuo Chen (陈卓), and I am currently pursuing my postgraduat
 ## Extra-curriculum Activities / Volunteer Work
 - Group Leader, China-Africa Shanghai International Network (CASIN), 2025-present
 - Volunteer, SIRPA Research Design Workshop, FDU, 2025-present
-- Secretary, Communist Youth League Branch of SIPAR, FDU, 2025-present
+- Secretary, Communist Youth League Branch of SIRPA, FDU, 2025-present
 - Group Leader, Interview Section of the Political Scientists (*Zhengzhi Xueren*), 2022-2024
 - Deputy Secretary, Communist Youth League Branch in Changsha County, 2022-2023
 - President, Student Union of SOPA, HNNU, 2021-2022
