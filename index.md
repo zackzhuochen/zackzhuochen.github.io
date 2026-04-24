@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hello, my name is Zhuo Chen (陈卓), and I am currently pursuing my postgraduate studies at the Department of Political Science, Fudan University. My research interests are centered on comparative politics, particularly in the areas of African politics, political behavior and political economy. 
+Hello, my name is Zhuo Chen (陈卓), and I am currently pursuing my postgraduate studies at the Department of Political Science, Fudan University. My research interests are centered on comparative politics, particularly in the areas of African politics, political behavior and political economy. **I am actively seeking a Research Assistant position​!**
 
 {% include_relative _includes/education.md %}
 
