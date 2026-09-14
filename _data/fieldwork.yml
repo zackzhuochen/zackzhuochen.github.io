@@ -1,5 +1,9 @@
 main:
 
+  - note: Field Research in Nairobi, Kenya, 2026.
+    location: Nairobi
+    image: ./assets/img/nairobi.jpg
+
   - note: Field Research in Harare, Zimbabwe, 2025.
     location: Harare
     image: ./assets/img/harare.jpg
