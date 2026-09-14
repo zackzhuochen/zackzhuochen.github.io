@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hello, my name is Zhuo Chen (陈卓), and I am currently pursuing my postgraduate studies at the Department of Political Science, Fudan University. My research interests are centered on comparative politics, particularly in the areas of African politics, political behavior and political economy. 
+Hello, my name is Zhuo Chen (陈卓). My research interests are centered on comparative politics, particularly in the areas of African politics, political behavior and political economy.
 
 **I am actively seeking a Research Assistant position!**
 
@@ -37,8 +37,8 @@ Hello, my name is Zhuo Chen (陈卓), and I am currently pursuing my postgraduat
 
 ## Extra-curriculum Activities / Volunteer Work
 - Group Leader, China-Africa Shanghai International Network (CASIN), 2025-present
-- Volunteer, SIRPA Research Design Workshop, FDU, 2025-present
-- Secretary, Communist Youth League Branch of SIRPA, FDU, 2025-present
+- Volunteer, SIRPA Research Design Workshop, FDU, 2025-2026
+- Secretary, Communist Youth League Branch of SIRPA, FDU, 2023-2026
 - Group Leader, Interview Section of the Political Scientists (*Zhengzhi Xueren*), 2022-2024
 - Deputy Secretary, Communist Youth League Branch in Changsha County, 2022-2023
 - President, Student Union of SOPA, HNNU, 2021-2022
