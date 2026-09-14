@@ -1,5 +1,9 @@
 main:
 
+  - note: Field Research in Lagos & Ogun, Nigeria, 2026.
+    location: Lagos & Ogun
+    image: ./assets/img/lagos.jpg
+
   - note: Field Research in Nairobi, Kenya, 2026.
     location: Nairobi
     image: ./assets/img/nairobi.jpg
