@@ -25,7 +25,7 @@ Hello, my name is Zhuo Chen (陈卓). My research interests are centered on comp
 ## Selected Fellowships and Awards
 - National Scholarship (Top 1%), 2025, 2022
 - Gu-Jing Scholarship (Top 1%), 2025
-- Yang-Shuda Scholarship (Top 1‰), 2022
+- Yang-Shuda Scholarship (Top 1%), 2022
 - Excellent Graduates in Shanghai, 2026
 - Excellent Graduates in Hunan Province, 2023
 - First-class Scholarship of Fudan University, 2025, 2026
@@ -46,4 +46,4 @@ Hello, my name is Zhuo Chen (陈卓). My research interests are centered on comp
 
 ## Additional Information
 - **Computer Skills:** R, Stata, Python, ArcGIS, QGIS, fsQCA, Gephi, LaTeX, 
-- **Language:** Chinese (native), English (fluent), Swahili (beginner), Shona(beginner)
+- **Language:** Chinese (native), English (fluent), Swahili (beginner)
